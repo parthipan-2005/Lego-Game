@@ -1,0 +1,31 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="680" scrolly="350" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="true" scrollx="680" scrolly="350" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="hide" id="7DnvVXoEx[,G7_,.gzp2" x="-750" y="-370">
+      <value name="VALUE">
+        <shadow type="objectList" id="tBgh;YtjD43NkLL/G^sn">
+          <field name="FIELDNAME">Square block.002</field>
+        </shadow>
+      </value>
+      <next>
+        <block type="hide" id="b2uX.!br,FJP3kD)w/i5">
+          <value name="VALUE">
+            <shadow type="objectList" id="zmc?M=4IaAnp=::82xv3">
+              <field name="FIELDNAME">Two stud</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="hide" id="F2hO(d#h8w|b][6jqUX,">
+              <value name="VALUE">
+                <shadow type="objectList" id="P!t4==623xYpp6*#y,EG">
+                  <field name="FIELDNAME">Rect block</field>
+                </shadow>
+              </value>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+  </tab>
+  <editorsettings viewport-x="903.5999999999999" viewport-y="28" viewport-w="614.4" viewport-h="388" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
